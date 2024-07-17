@@ -200,6 +200,6 @@
 
     let initialValue = 5;
 
-    let finalresults = mainFunc(doubleFunction, addtenFunc, initialValue);
-    console.log(finalresults);
+    let finalresultss = mainFunc(doubleFunction, addtenFunc, initialValue);
+    console.log(finalresultss);
 
