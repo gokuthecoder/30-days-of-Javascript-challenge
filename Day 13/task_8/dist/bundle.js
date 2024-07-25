@@ -1,0 +1,1 @@
+(() => { "use strict"; console.log(["Bihar", "Jaipur", "Delhi", "Paris"]) })();
